@@ -4,8 +4,8 @@
 }
 body {
   font-size: 120%;
-  /*background: silver;*/
-  background-image:url("image.JPG");
+  background: silver;
+ /* background-image:url("image.JPG");*/
   background-repeat: no-repeat;
   background-size: 100%;
 
